@@ -1,0 +1,125 @@
+header{background-color: #FFD100;
+min-height: 80vh;}
+
+.bg-light {
+    background-color: transparent !important;
+    padding-top: 70px}
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #333;
+    font-size: 22px;
+    font-weight: bold;
+}
+.owl-content{
+    margin-top: 40px;
+    width:  440px;
+    /* justify-items:  center; */
+}
+.owl-content h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.owl-content h5{
+    color:  #313841;
+    font-size:  20px;
+    margin-bottom:  14px;
+}
+.owl-content p{
+    font-size:  16px;
+    color:  #555555;
+}
+.owl-content ul{
+    font-size: 42px;
+}
+.owl-content li{}
+.owl-img{ width: 260px;
+float: right;
+margin-top: 20px; }
+.owl-img img{
+    
+}
+.features-section{
+}
+.heading{
+    margin-top: 80px;
+    text-align:  center;
+}
+.heading h1{
+    font-size:  32px;
+    font-weight:  bold;
+    text-transform:  capitalize;
+    margin-bottom: 20px;
+}
+.heading p{
+    font-size:  20px;
+    color:  #313841;
+    margin-bottom: 50;
+    padding: 30px;
+}
+.feature{
+    padding: 30px;
+}
+.feature i{
+    font-size: 25px;
+}
+.feature-content{
+    /* padding: 20px; */
+}
+.feature-content h2{
+    margin:  0;
+    font-size:  25px;
+}
+.feature-content p{
+    font-size:  16px;
+    line-height: 20px;
+}
+.subscribe-section{
+    background:  black;
+    color:  #898989;
+    text-align:  center;
+    font-weight: 600;
+    padding: 50px 0;
+}
+.subscribe-heading{}
+.subscribe-heading h2{
+    font-size: 32px;
+    color:  yellow;
+    text-align:  center;
+    margin-top: 70px;
+    text-transform:  capitalize;
+}
+.subscribe-heading P{
+    
+width: 700px;
+    
+margin:  0 auto;
+    
+margin-top:  20px;
+}
+form{
+    margin:  0 auto;
+    max-width: 720px;
+    padding: 50px;
+}
+form input{
+    padding: 10px !important;
+}
+.btn-custom{
+    background: yellow;
+    width: 170px;
+    font-weight:  bold;
+    text-transform: uppercase;
+}
+.social-icons{}
+.social-icons li{}
+.social-icons li a{
+    background:  yellow;
+    color:  black;
+    display: block;
+    width:  40px;
+    height: 40px;
+    font-size: 30px;
+}
+
+
+
